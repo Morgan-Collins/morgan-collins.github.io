@@ -3,8 +3,8 @@ title: "Oxidation Kinetics Experiments of CuCrZr Alloy in Steam Environments Up 
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This work investigated the oxidation kinetics of CuCrZr alloy for future fusion first wall applications.'
-date: 2023
-venue: 'NA'
+date: 2023-01-01
+venue: ''
 paperurl: ''
 citation: ''
 ---
